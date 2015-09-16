@@ -6,4 +6,6 @@ description: Zetta EIRL es una empresa de servicios informáticos, desarrollo We
 # Build settings
 markdown: kramdown
 
+google_analytics: true
+
 exclude: ["README.md"]
