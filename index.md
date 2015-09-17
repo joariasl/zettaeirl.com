@@ -11,7 +11,7 @@ layout: default
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-[Zetta EIRL](http://www.zettaeirl.com/) es una empresa de servicios informáticos, desarrollo Web y sistemas empresariales.
+Fundada por [Jorge Arias](http://www.jorgearias.cl/); [Zetta EIRL](http://www.zettaeirl.com/) es una empresa de servicios informáticos, desarrollo Web y sistemas empresariales.
 
 <div class="fb-like" data-href="https://www.facebook.com/ZettaEIRL" data-layout="button"></div>
 
