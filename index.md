@@ -16,7 +16,17 @@ Fundada por [Jorge Arias](http://www.jorgearias.cl/); [Zetta EIRL](http://www.ze
 <div class="fb-like" data-href="https://www.facebook.com/ZettaEIRL" data-layout="button"></div>
 
 ## Contacto
-Mail: [zettaeirl@gmail.com](mailto:zettaeirl@gmail.com)
+<script>
+  function join_at_email(user, domain){
+	  return (user && domain)?(user + "@" + domain):"";
+  }
+  document.write('Mail: <a href="mailto:'
+	+ join_at_email( "zettaeirl", "gmail.com" )
+	+ '">'
+	+ join_at_email( "zettaeirl", "gmail.com" )
+	+ '</a>'
+  );
+</script>
 
 ## Desarrollo de Sistema de Gestión de Documentación Tributaria Electrónica DTE
 [Zetta EIRL](http://www.zettaeirl.com/) se encuentra desarrollando un sistema para la gestión de DTE del SII en Chile. Será ofrecido al público como Software as a Service (SaaS) con capacidad API RESTful y SOAP, con la cual se trabajará la integración en sistemas empresariales propios, Odoo/OpenERP u OpenBravo.
