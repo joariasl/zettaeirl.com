@@ -29,7 +29,7 @@ Fundada por [Jorge Arias](http://www.jorgearias.cl/); [Zetta EIRL](http://www.ze
 </script>
 
 ## Desarrollo de Sistema de Gestión de Documentación Tributaria Electrónica DTE
-[Zetta EIRL](http://www.zettaeirl.com/) se encuentra desarrollando un sistema para la gestión de DTE del SII en Chile. Será ofrecido al público como Software as a Service (SaaS) con capacidad API RESTful y SOAP, con la cual se trabajará la integración en sistemas empresariales propios, Odoo/OpenERP u OpenBravo.
+[Zetta EIRL](http://www.zettaeirl.com/) se encuentra desarrollando un sistema para la gestión de DTE del SII en Chile. Será ofrecido al público como Software as a Service (SaaS) con capacidad API RESTful y SOAP, con la cual se trabajará la integración en sistemas empresariales propios como Odoo/OpenERP o soporte para implementaciones particulares de nuestros clientes.
 
 De esta forma se busca generar un impacto positivo en las MiPyme mediante la adopción de tecnologías de la información, haciéndolas más competitivas usando el valor de la informática.
 
